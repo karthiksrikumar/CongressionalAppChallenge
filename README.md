@@ -2,7 +2,7 @@
 
 ## Project Backend for AI Model
 
-This repository contains the backend code for my AI model, which handles the core functionality of the application. The model is built to manage various tasks, such as Object Detection, using efficient algorithms and optimized processes.
+This repository contains the backend code for my AI model, the key part of DriveAEye, which handles the core functionality of the application. The model is built to manage various tasks, such as Object Detection, using efficient algorithms and optimized processes.
 
 ## API Key Usage
 
